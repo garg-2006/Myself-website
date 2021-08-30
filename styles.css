@@ -69,7 +69,7 @@
  }
  
  .skill-row {
-     width: 50%;
+     width: 50 %;
      margin: 100px auto 100px auto;
      text-align: left;
  }
@@ -96,8 +96,8 @@
  }
  
  .me {
-     height: 250px;
-     width: 240px;
+     height: 250 px;
+     width: 240 px;
  }
  
  .top-cloud {
